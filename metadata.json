@@ -1,0 +1,6 @@
+{
+  "name": "AI UST Creator",
+  "description": "AI-powered audio melody analysis, section timeline, multilingual lyric alignment, and standard UTAU UST file editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
